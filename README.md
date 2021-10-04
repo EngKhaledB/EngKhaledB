@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Khaled</h1>
+<h1 align="center">Hi there 👋, I'm Khaled</h1>
 <h3 align="center">Full Stack WordPress & WooCommerce Developer</h3>
 
 
