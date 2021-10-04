@@ -1,9 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Khaled</h1>
-<h3>Expert PHP, WordPress, WooCommerce Developer and Problems Solver</h3>
+<h3>⚡ Expert PHP, WordPress, WooCommerce Developer and Problems Solver</h3>
 <p>
 A top rated Senior Full Stack Web Developer with more than 8 years of extensive experience building several types of Websites & Web Applications using latest technologies. Continually evaluating and upgrading my skills to stay at the cutting edge of web development technologies and skills. Problem solver with strong understanding of the software process.
 </p>
-<h3>Core Skills:</h3>
+
+<h3>⚡ Core Skills:</h3>
 
 - WordPress Custom Development
  - - Custom WordPress Themes Development
@@ -24,6 +25,8 @@ A top rated Senior Full Stack Web Developer with more than 8 years of extensive 
 - SSH, Putty, Git, GitHub, Bitbucket, Beanstalk, cPanel, WP Engine, Pantheon, Digital Ocean, Staging & Deployment.
 - NPM, YARN & Gulp
 - Trello, Asana, Flow & Jira.
+
+**❤️ I am interested in working on projects related to WordPress, WooCommerce, WooCommerse Subscriptions, Elementor, Custom themes & Custom Plugins, Integration with third-parties**
 
 <!--
 **EngKhaledB/EngKhaledB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
