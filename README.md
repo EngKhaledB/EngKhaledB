@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Khaled</h1>
+<h3 align="center">Full Stack WordPress & WooCommerce Developer</h3>
+
 
 <!--
 **EngKhaledB/EngKhaledB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
