@@ -15,7 +15,7 @@ A top rated Senior Full Stack Web Developer with more than 8 years of extensive 
  - - Responsive Layouts PSD to HTML, PSD to WordPress
 - PHP & OOP & MySQL ( LAMP )
 - Klaviyo Integration with WordPress, WooCommerce & WooCommerce Subscriptions
-- PHP CodeIgniter MVC
+- PHP CodeIgniter MVC & Oracle PL/SQL
 - Cloud Computing, SaaS & Multi-tenancy Web Applications
 - RESTful APIs
 - CSS3, SASS, HTML5, jQuery & Bootstrap CSS Framework, Vue.js
