@@ -7,13 +7,13 @@ Senior Full Stack Web Developer with more than 10 years of extensive experience 
 <h3>⚡ Core Skills:</h3>
 
 - WordPress Custom Development
- - - Custom WordPress Themes Development
- - - Custom WordPress Plugins Development
- - - Custom Post Types & Advanced Custom Fields (ACF PRO ).
- - - WooCommerce & WooCommerce Subscriptions for eCommerce solutions.
- - - WordPress & Third Parties & API integration
- - - PSD to Elementor & Elementor Pro
- - - Responsive Layouts PSD to HTML, PSD to WordPress
+  - Custom WordPress Themes Development
+  - Custom WordPress Plugins Development
+  - Custom Post Types & Advanced Custom Fields (ACF PRO ).
+  - WooCommerce & WooCommerce Subscriptions for eCommerce solutions.
+  - WordPress & Third Parties & API integration
+  - PSD to Elementor & Elementor Pro
+  - Responsive Layouts PSD to HTML, PSD to WordPress
 - PHP & OOP & MySQL ( LAMP )
 - Klaviyo Integration with WordPress, WooCommerce & WooCommerce Subscriptions
 - PHP CodeIgniter MVC & Oracle PL/SQL
